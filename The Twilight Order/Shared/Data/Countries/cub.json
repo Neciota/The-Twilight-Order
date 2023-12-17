@@ -1,0 +1,17 @@
+{
+	"code": "cub",
+	"regionCode": "nam",
+	"name": "Cuba",
+	"stability": 3,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 1400,
+	"boxY": 750,
+	"neighbors": [
+		"usa",
+		"hai",
+		"hon"
+	]
+}

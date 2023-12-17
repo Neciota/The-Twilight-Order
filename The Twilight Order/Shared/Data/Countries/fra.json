@@ -1,0 +1,18 @@
+{
+	"code": "fra",
+	"regionCode": "eur",
+	"name": "France",
+	"stability": 3,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 2600,
+	"boxY": 550,
+	"neighbors": [
+		"eng",
+		"bur",
+		"ibe",
+		"swi"
+	]
+}

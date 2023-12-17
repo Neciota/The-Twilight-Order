@@ -1,0 +1,18 @@
+{
+	"code": "eng",
+	"regionCode": "eur",
+	"name": "England",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 2650,
+	"boxY": 450,
+	"neighbors": [
+		"sco",
+		"fra",
+		"net",
+		"ire"
+	]
+}

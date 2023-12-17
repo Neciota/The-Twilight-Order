@@ -1,0 +1,15 @@
+{
+	"code": "ire",
+	"regionCode": "eur",
+	"name": "Ireland",
+	"stability": 3,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 2400,
+	"boxY": 450,
+	"neighbors": [
+		"sco",
+		"eng"
+	]
+}

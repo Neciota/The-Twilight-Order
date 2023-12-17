@@ -1,0 +1,15 @@
+{
+	"code": "ice",
+	"regionCode": "eur",
+	"name": "Iceland",
+	"stability": 3,
+	"influenceUsa": 3,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 2400,
+	"boxY": 100,
+	"neighbors": [
+		"sco",
+		"can"
+	]
+}

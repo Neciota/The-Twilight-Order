@@ -1,0 +1,16 @@
+{
+	"code": "ukr",
+	"regionCode": "rus",
+	"name": "Ukraine",
+	"stability": 1,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3200,
+	"boxY": 500,
+	"neighbors": [
+		"mos",
+		"ost",
+		"rom"
+	]
+}

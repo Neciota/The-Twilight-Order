@@ -1,0 +1,17 @@
+{
+	"code": "hun",
+	"regionCode": "eur",
+	"name": "Hungary",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3000,
+	"boxY": 550,
+	"neighbors": [
+		"ger",
+		"pol",
+		"rom",
+		"yug"
+	]
+}

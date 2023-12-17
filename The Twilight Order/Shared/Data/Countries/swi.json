@@ -1,0 +1,16 @@
+{
+	"code": "swi",
+	"regionCode": "eur",
+	"name": "Switzerland",
+	"stability": 4,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 2850,
+	"boxY": 540,
+	"neighbors": [
+		"ita",
+		"ger",
+		"fra"
+	]
+}

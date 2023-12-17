@@ -1,0 +1,16 @@
+{
+	"code": "ind",
+	"regionCode": "asi",
+	"name": "India",
+	"stability": 3,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 3900,
+	"boxY": 1100,
+	"neighbors": [
+		"afg",
+		"azh"
+	]
+}

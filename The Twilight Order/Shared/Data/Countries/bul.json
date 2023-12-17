@@ -1,0 +1,17 @@
+{
+	"code": "bul",
+	"regionCode": "eur",
+	"name": "Bulgaria",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3100,
+	"boxY": 600,
+	"neighbors": [
+		"rom",
+		"gre",
+		"tur",
+		"yug"
+	]
+}

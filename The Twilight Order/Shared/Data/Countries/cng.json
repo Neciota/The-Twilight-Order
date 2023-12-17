@@ -1,0 +1,16 @@
+{
+	"code": "cng",
+	"regionCode": "afr",
+	"name": "Congo",
+	"stability": 1,
+	"influenceUsa": 0,
+	"influenceGermany": 1,
+	"influenceJapan": 0,
+	"boxX": 3000,
+	"boxY": 1350,
+	"neighbors": [
+		"caf",
+		"eaf",
+		"swa"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"code": "pan",
+	"regionCode": "nam",
+	"name": "Panama",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 1450,
+	"boxY": 1000,
+	"neighbors": [
+		"col",
+		"cri"
+	]
+}

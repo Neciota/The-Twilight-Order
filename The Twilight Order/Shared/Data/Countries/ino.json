@@ -1,0 +1,17 @@
+{
+	"code": "ino",
+	"regionCode": "asi",
+	"name": "Indonesia",
+	"stability": 1,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 4400,
+	"boxY": 1400,
+	"neighbors": [
+		"mal",
+		"aus",
+		"phi"
+	]
+}

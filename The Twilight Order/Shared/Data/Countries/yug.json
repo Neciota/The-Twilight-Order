@@ -1,0 +1,17 @@
+{
+	"code": "yug",
+	"regionCode": "eur",
+	"name": "Yugoslavia",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3000,
+	"boxY": 620,
+	"neighbors": [
+		"ita",
+		"alb",
+		"bul",
+		"hun"
+	]
+}

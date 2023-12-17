@@ -1,0 +1,16 @@
+{
+	"code": "ven",
+	"regionCode": "sam",
+	"name": "Venezuela",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 1700,
+	"boxY": 1000,
+	"neighbors": [
+		"col",
+		"guy"
+	]
+}

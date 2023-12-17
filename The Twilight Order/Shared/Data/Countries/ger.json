@@ -1,0 +1,21 @@
+{
+	"code": "ger",
+	"regionCode": "eur",
+	"name": "Germany",
+	"stability": -1,
+	"isPlayer": true,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 2900,
+	"boxY": 450,
+	"neighbors": [
+		"den",
+		"pol",
+		"bur",
+		"net",
+		"swi",
+		"ost",
+		"hun"
+	]
+}

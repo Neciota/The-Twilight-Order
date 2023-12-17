@@ -1,0 +1,16 @@
+{
+	"code": "sch",
+	"regionCode": "asi",
+	"name": "South China",
+	"shortName": "S. China",
+	"stability": 3,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 4400,
+	"boxY": 950,
+	"neighbors": [
+		"inc",
+		"chn"
+	]
+}

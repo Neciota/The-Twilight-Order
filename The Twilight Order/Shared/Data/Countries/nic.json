@@ -1,0 +1,15 @@
+{
+	"code": "nic",
+	"regionCode": "nam",
+	"name": "Nicaragua",
+	"stability": 1,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 1400,
+	"boxY": 950,
+	"neighbors": [
+		"cri",
+		"hon"
+	]
+}

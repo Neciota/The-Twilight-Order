@@ -1,0 +1,17 @@
+{
+	"code": "sco",
+	"regionCode": "eur",
+	"name": "Scotland",
+	"stability": 3,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 2600,
+	"boxY": 300,
+	"neighbors": [
+		"eng",
+		"ire",
+		"ice",
+		"nor"
+	]
+}

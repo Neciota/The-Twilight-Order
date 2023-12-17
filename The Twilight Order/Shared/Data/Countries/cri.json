@@ -1,0 +1,15 @@
+{
+	"code": "cri",
+	"regionCode": "nam",
+	"name": "Costa Rica",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 1200,
+	"boxY": 1050,
+	"neighbors": [
+		"pan",
+		"nic"
+	]
+}

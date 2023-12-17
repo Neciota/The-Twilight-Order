@@ -1,0 +1,15 @@
+{
+	"code": "ecu",
+	"regionCode": "sam",
+	"name": "Ecuador",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 1400,
+	"boxY": 1150,
+	"neighbors": [
+		"col",
+		"per"
+	]
+}

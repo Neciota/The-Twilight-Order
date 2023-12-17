@@ -1,0 +1,15 @@
+{
+	"code": "bol",
+	"regionCode": "sam",
+	"name": "Bolivia",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 1800,
+	"boxY": 1300,
+	"neighbors": [
+		"par",
+		"per"
+	]
+}

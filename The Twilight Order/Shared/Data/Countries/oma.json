@@ -1,0 +1,15 @@
+{
+	"code": "oma",
+	"regionCode": "mea",
+	"name": "Oman",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3600,
+	"boxY": 1020,
+	"neighbors": [
+		"gul",
+		"yem"
+	]
+}

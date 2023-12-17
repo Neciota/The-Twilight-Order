@@ -1,0 +1,64 @@
+﻿@using TheTwilightOrder.Shared.Models.Game;
+@inject HttpClient Http
+
+<foreignObject width="140" height="80" x="@Country.BoxX" y="@Country.BoxY">
+    <div class="d-flex flex-column outer-box">
+        <div class="d-flex flex-row justify-content-between title @(Country.IsBattleground ? "color-battleground" : $"color-{Country.RegionCode}")">
+            <img src=@($"{Http.BaseAddress}/images/flags/{Country.Code}.jpg") alt="" />
+            <span class="align-middle mx-1">@Country</span>
+            <span class="align-middle stability ps-1 me-1">@Country.Stability</span>
+        </div>
+        <div class="d-flex flex-row justify-content-between influence-display color-@Country.RegionCode">
+            @if (Country.InfluenceUSA > 0)
+            {
+                <button class="influence highlight influence-usa-outer" @onclick="InfluenceUSA">
+                    <div class="influence-inner">@Country.InfluenceUSA</div>
+                </button>
+            }
+            else
+            {
+                <button class="influence highlight color-@Country.RegionCode" @onclick="InfluenceUSA">&nbsp;</button>
+            }
+            @if (Country.InfluenceGermany > 0)
+            {
+                <button class="influence highlight influence-germany-outer" @onclick="InfluenceGermany">
+                    <div class="influence-inner">@Country.InfluenceGermany</div>
+                </button>
+            }
+            else
+            {
+                <button class="influence highlight color-@Country.RegionCode" @onclick="InfluenceGermany">&nbsp;</button>
+            }
+            @if (Country.InfluenceJapan > 0)
+            {
+                <button class="influence highlight influence-japan-outer" @onclick="InfluenceJapan">
+                    <div class="influence-inner">@Country.InfluenceJapan</div>
+                </button>
+            }
+            else
+            {
+                <button class="influence highlight color-@Country.RegionCode" @onclick="InfluenceJapan">&nbsp;</button>
+            }
+        </div>
+    </div>
+</foreignObject>
+
+@code {
+    [Parameter]
+    public Country Country { get; set; } = null!;
+
+    private void InfluenceUSA()
+    {
+        Console.WriteLine($"USA influenced {Country.Name}");
+    }
+
+    private void InfluenceGermany()
+    {
+        Console.WriteLine($"Germany influenced {Country.Name}");
+    }
+
+    private void InfluenceJapan()
+    {
+        Console.WriteLine($"Japan influenced {Country.Name}");
+    }
+}

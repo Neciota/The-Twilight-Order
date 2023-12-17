@@ -1,0 +1,18 @@
+{
+	"code": "nch",
+	"regionCode": "asi",
+	"name": "North China",
+	"shortName": "N. China",
+	"stability": 3,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 3,
+	"boxX": 4500,
+	"boxY": 600,
+	"neighbors": [
+		"csi",
+		"esi",
+		"kor",
+		"chn"
+	]
+}

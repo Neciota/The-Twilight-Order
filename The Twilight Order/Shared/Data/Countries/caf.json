@@ -1,0 +1,17 @@
+{
+	"code": "caf",
+	"regionCode": "afr",
+	"name": "Central Africa",
+	"shortName": "C. Africa",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 2900,
+	"boxY": 1100,
+	"neighbors": [
+		"sah",
+		"cng",
+		"gco"
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"code": "mad",
+	"regionCode": "afr",
+	"name": "Madagascar",
+	"stability": 1,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3500,
+	"boxY": 1600,
+	"neighbors": [
+		"eaf"
+	]
+}

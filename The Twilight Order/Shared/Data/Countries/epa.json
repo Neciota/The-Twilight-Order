@@ -1,0 +1,16 @@
+{
+	"code": "epa",
+	"regionCode": "asi",
+	"name": "East Pacific",
+	"shortName": "E. Pacific",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 2,
+	"boxX": 200,
+	"boxY": 1200,
+	"neighbors": [
+		"usa",
+		"wpa"
+	]
+}

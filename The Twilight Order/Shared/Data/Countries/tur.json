@@ -1,0 +1,17 @@
+{
+	"code": "tur",
+	"regionCode": "mea",
+	"name": "Turkey",
+	"stability": 3,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 3250,
+	"boxY": 650,
+	"neighbors": [
+		"cau",
+		"gre",
+		"syr"
+	]
+}

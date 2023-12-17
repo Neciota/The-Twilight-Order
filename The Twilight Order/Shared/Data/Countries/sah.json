@@ -1,0 +1,19 @@
+{
+	"code": "sah",
+	"regionCode": "afr",
+	"name": "Sahel",
+	"stability": 1,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 2600,
+	"boxY": 1050,
+	"neighbors": [
+		"mor",
+		"alg",
+		"caf",
+		"gui",
+		"gco"
+	]
+}

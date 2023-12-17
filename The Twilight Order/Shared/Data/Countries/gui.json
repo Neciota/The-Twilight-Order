@@ -1,0 +1,15 @@
+{
+	"code": "gui",
+	"regionCode": "afr",
+	"name": "Guinea",
+	"stability": 1,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 2500,
+	"boxY": 1200,
+	"neighbors": [
+		"gco",
+		"sah"
+	]
+}

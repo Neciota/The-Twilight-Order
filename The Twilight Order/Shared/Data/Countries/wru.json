@@ -1,0 +1,17 @@
+{
+	"code": "wru",
+	"regionCode": "rus",
+	"name": "West Russia",
+	"shortName": "W. Russia",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3500,
+	"boxY": 350,
+	"neighbors": [
+		"mos",
+		"cas",
+		"wsi"
+	]
+}

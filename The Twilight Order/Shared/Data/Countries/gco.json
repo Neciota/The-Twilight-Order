@@ -1,0 +1,16 @@
+{
+	"code": "gco",
+	"regionCode": "afr",
+	"name": "Gold Coast",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 2700,
+	"boxY": 1350,
+	"neighbors": [
+		"gui",
+		"caf",
+		"sah"
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"code": "chl",
+	"regionCode": "sam",
+	"name": "Chile",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 1500,
+	"boxY": 1600,
+	"neighbors": [
+		"arg",
+		"per"
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"code": "mya",
+	"regionCode": "asi",
+	"name": "Burma",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 4200,
+	"boxY": 950,
+	"neighbors": [
+		"azh",
+		"tha"
+	]
+}

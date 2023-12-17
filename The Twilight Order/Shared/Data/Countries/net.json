@@ -1,0 +1,17 @@
+{
+	"code": "net",
+	"regionCode": "eur",
+	"name": "The Netherlands",
+	"shortName": "Netherlands",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 2800,
+	"boxY": 400,
+	"neighbors": [
+		"ger",
+		"eng",
+		"bur"
+	]
+}

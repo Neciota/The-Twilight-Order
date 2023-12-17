@@ -1,0 +1,15 @@
+{
+	"code": "pol",
+	"regionCode": "eur",
+	"name": "Poland",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3050,
+	"boxY": 470,
+	"neighbors": [
+		"ger",
+		"hun"
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"code": "inc",
+	"regionCode": "asi",
+	"name": "Indochina",
+	"stability": 1,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 1,
+	"boxX": 4450,
+	"boxY": 1100,
+	"neighbors": [
+		"sch",
+		"tha"
+	]
+}

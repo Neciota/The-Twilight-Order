@@ -1,0 +1,17 @@
+{
+	"code": "arg",
+	"regionCode": "sam",
+	"name": "Argentina",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 1700,
+	"boxY": 1800,
+	"neighbors": [
+		"chl",
+		"uru",
+		"par"
+	]
+}

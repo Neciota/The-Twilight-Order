@@ -1,0 +1,16 @@
+{
+	"code": "per",
+	"regionCode": "sam",
+	"name": "Peru",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 1500,
+	"boxY": 1300,
+	"neighbors": [
+		"chl",
+		"ecu",
+		"bol"
+	]
+}

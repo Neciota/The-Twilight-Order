@@ -1,0 +1,17 @@
+{
+	"code": "wpa",
+	"regionCode": "asi",
+	"name": "West Pacific",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 2,
+	"boxX": 5300,
+	"boxY": 1000,
+	"neighbors": [
+		"epa",
+		"jap",
+		"phi",
+		"aus"
+	]
+}

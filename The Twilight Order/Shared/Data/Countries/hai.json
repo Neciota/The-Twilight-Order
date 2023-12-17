@@ -1,0 +1,15 @@
+{
+	"code": "hai",
+	"regionCode": "nam",
+	"name": "Haiti",
+	"stability": 1,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 1600,
+	"boxY": 850,
+	"neighbors": [
+		"dom",
+		"cub"
+	]
+}

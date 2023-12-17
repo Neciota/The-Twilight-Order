@@ -1,0 +1,17 @@
+{
+	"code": "csi",
+	"regionCode": "rus",
+	"name": "Central Siberia",
+	"shortName": "C. Siberia",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 4200,
+	"boxY": 300,
+	"neighbors": [
+		"wsi",
+		"esi",
+		"nch"
+	]
+}

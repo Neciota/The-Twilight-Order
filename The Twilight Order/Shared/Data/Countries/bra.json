@@ -1,0 +1,17 @@
+{
+	"code": "bra",
+	"regionCode": "sam",
+	"name": "Brazil",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 2100,
+	"boxY": 1400,
+	"neighbors": [
+		"uru",
+		"par",
+		"guy"
+	]
+}

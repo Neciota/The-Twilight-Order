@@ -1,0 +1,16 @@
+{
+	"code": "alb",
+	"regionCode": "eur",
+	"name": "Albania",
+	"stability": 3,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3000,
+	"boxY": 680,
+	"neighbors": [
+		"ita",
+		"yug",
+		"gre"
+	]
+}

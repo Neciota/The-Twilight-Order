@@ -1,0 +1,20 @@
+﻿@using TheTwilightOrder.Shared.Models.Game;
+@inject HttpClient Http
+
+<g>
+    @_countrySvg
+</g>
+
+@code {
+    [Parameter]
+    public Country Country { get; set; } = null!;
+
+    private MarkupString _countrySvg;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await base.OnInitializedAsync();
+
+        _countrySvg = new MarkupString(await Http.GetStringAsync($"/images/countries/{Country.Code}.html"));
+    }
+}

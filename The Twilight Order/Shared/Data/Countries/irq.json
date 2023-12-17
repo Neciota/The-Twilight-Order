@@ -1,0 +1,17 @@
+{
+	"code": "irq",
+	"regionCode": "mea",
+	"name": "Iraq",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 3400,
+	"boxY": 850,
+	"neighbors": [
+		"ira",
+		"syr",
+		"sau"
+	]
+}

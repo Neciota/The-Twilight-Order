@@ -1,0 +1,16 @@
+{
+	"code": "col",
+	"regionCode": "sam",
+	"name": "Colombia",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 1600,
+	"boxY": 1100,
+	"neighbors": [
+		"pan",
+		"ven",
+		"ecu"
+	]
+}

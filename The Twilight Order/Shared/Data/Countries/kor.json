@@ -1,0 +1,15 @@
+{
+	"code": "kor",
+	"regionCode": "asi",
+	"name": "Korea",
+	"stability": 3,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 3,
+	"boxX": 4700,
+	"boxY": 700,
+	"neighbors": [
+		"jap",
+		"nch"
+	]
+}

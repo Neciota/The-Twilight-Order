@@ -1,0 +1,16 @@
+{
+	"code": "mex",
+	"regionCode": "nam",
+	"name": "Mexico",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 1000,
+	"boxY": 800,
+	"neighbors": [
+		"usa",
+		"gua"
+	]
+}

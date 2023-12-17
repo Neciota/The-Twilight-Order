@@ -1,0 +1,16 @@
+{
+	"code": "par",
+	"regionCode": "sam",
+	"name": "Paraguay",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 1800,
+	"boxY": 1500,
+	"neighbors": [
+		"bra",
+		"arg",
+		"bol"
+	]
+}

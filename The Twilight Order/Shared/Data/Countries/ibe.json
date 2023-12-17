@@ -1,0 +1,16 @@
+{
+	"code": "ibe",
+	"regionCode": "eur",
+	"name": "Iberia",
+	"stability": 3,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 2600,
+	"boxY": 700,
+	"neighbors": [
+		"fra",
+		"mor"
+	]
+}

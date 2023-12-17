@@ -1,0 +1,18 @@
+{
+	"code": "sau",
+	"regionCode": "mea",
+	"name": "Saudi-Arabia",
+	"shortName": "S. Arabia",
+	"stability": 3,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3350,
+	"boxY": 950,
+	"neighbors": [
+		"irq",
+		"gco",
+		"yem",
+		"egy"
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"code": "den",
+	"regionCode": "eur",
+	"name": "Denmark",
+	"stability": 3,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 2900,
+	"boxY": 350,
+	"neighbors": [
+		"swe",
+		"ger"
+	]
+}

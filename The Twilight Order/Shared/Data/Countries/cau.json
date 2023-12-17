@@ -1,0 +1,16 @@
+{
+	"code": "cau",
+	"regionCode": "rus",
+	"name": "Caucasus",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3400,
+	"boxY": 600,
+	"neighbors": [
+		"tur",
+		"mos",
+		"ira"
+	]
+}

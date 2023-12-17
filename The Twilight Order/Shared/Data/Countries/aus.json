@@ -1,0 +1,15 @@
+{
+	"code": "aus",
+	"regionCode": "asi",
+	"name": "Australia",
+	"stability": 4,
+	"influenceUsa": 4,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 4800,
+	"boxY": 1600,
+	"neighbors": [
+		"wpa",
+		"ino"
+	]
+}

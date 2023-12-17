@@ -1,0 +1,17 @@
+{
+	"code": "jap",
+	"regionCode": "asi",
+	"name": "Japan",
+	"stability": -1,
+	"isPlayer": true,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 4900,
+	"boxY": 800,
+	"neighbors": [
+		"kor",
+		"wpa",
+		"phi"
+	]
+}

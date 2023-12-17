@@ -1,0 +1,18 @@
+{
+	"code": "mos",
+	"regionCode": "rus",
+	"name": "Moscow",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 2,
+	"influenceJapan": 0,
+	"boxX": 3300,
+	"boxY": 400,
+	"neighbors": [
+		"wru",
+		"fin",
+		"cau",
+		"ost",
+		"ukr"
+	]
+}

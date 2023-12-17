@@ -1,0 +1,17 @@
+{
+	"code": "saf",
+	"regionCode": "afr",
+	"name": "South Africa",
+	"shortName": "S. Africa",
+	"stability": 2,
+	"influenceUsa": 1,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 3100,
+	"boxY": 1900,
+	"neighbors": [
+		"swa",
+		"eaf"
+	]
+}

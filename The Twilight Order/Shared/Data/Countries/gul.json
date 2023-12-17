@@ -1,0 +1,16 @@
+{
+	"code": "gul",
+	"regionCode": "mea",
+	"name": "Gulf States",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3600,
+	"boxY": 950,
+	"neighbors": [
+		"oma",
+		"sau",
+		"ira"
+	]
+}

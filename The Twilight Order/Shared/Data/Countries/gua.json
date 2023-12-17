@@ -1,0 +1,15 @@
+{
+	"code": "gua",
+	"regionCode": "nam",
+	"name": "Guatemala",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 1150,
+	"boxY": 950,
+	"neighbors": [
+		"mex",
+		"hon"
+	]
+}

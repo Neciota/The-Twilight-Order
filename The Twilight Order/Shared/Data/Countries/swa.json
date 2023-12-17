@@ -1,0 +1,17 @@
+{
+	"code": "swa",
+	"regionCode": "afr",
+	"name": "South-West Africa",
+	"shortName": "SW Africa",
+	"stability": 1,
+	"influenceUsa": 0,
+	"influenceGermany": 1,
+	"influenceJapan": 0,
+	"boxX": 2900,
+	"boxY": 1600,
+	"neighbors": [
+		"saf",
+		"cng",
+		"eaf"
+	]
+}

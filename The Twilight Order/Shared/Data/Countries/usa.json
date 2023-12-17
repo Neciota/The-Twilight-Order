@@ -1,0 +1,18 @@
+{
+	"code": "usa",
+	"regionCode": "nam",
+	"name": "USA",
+	"stability": -1,
+	"isPlayer": true,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 1200,
+	"boxY": 500,
+	"neighbors": [
+		"can",
+		"mex",
+		"epa",
+		"cub"
+	]
+}

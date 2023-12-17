@@ -1,0 +1,16 @@
+{
+	"code": "phi",
+	"regionCode": "asi",
+	"name": "Philippines",
+	"stability": 1,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 4700,
+	"boxY": 1200,
+	"neighbors": [
+		"wpa",
+		"jap",
+		"ino"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"code": "yem",
+	"regionCode": "mea",
+	"name": "Yemen",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3500,
+	"boxY": 1120,
+	"neighbors": [
+		"hoa",
+		"oma",
+		"sau"
+	]
+}

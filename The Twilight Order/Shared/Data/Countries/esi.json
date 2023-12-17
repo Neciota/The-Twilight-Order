@@ -1,0 +1,17 @@
+{
+	"code": "esi",
+	"regionCode": "rus",
+	"name": "East Siberia",
+	"shortName": "E. Siberia",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 4600,
+	"boxY": 200,
+	"neighbors": [
+		"nch",
+		"csi",
+		"usa"
+	]
+}

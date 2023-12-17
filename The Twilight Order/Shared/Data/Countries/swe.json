@@ -1,0 +1,16 @@
+{
+	"code": "swe",
+	"regionCode": "eur",
+	"name": "Sweden",
+	"stability": 4,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 2950,
+	"boxY": 250,
+	"neighbors": [
+		"den",
+		"fin",
+		"nor"
+	]
+}

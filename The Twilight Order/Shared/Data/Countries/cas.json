@@ -1,0 +1,18 @@
+{
+	"code": "cas",
+	"regionCode": "rus",
+	"name": "Central Asia",
+	"shortName": "C. Asia",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3700,
+	"boxY": 600,
+	"neighbors": [
+		"afg",
+		"wru",
+		"wsi",
+		"wch"
+	]
+}

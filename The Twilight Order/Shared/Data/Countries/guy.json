@@ -1,0 +1,16 @@
+{
+	"code": "guy",
+	"regionCode": "sam",
+	"name": "Guyana",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 1900,
+	"boxY": 1100,
+	"neighbors": [
+		"eci",
+		"bra",
+		"ven"
+	]
+}

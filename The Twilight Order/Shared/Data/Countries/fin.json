@@ -1,0 +1,15 @@
+{
+	"code": "fin",
+	"regionCode": "eur",
+	"name": "Finland",
+	"stability": 4,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3200,
+	"boxY": 150,
+	"neighbors": [
+		"mos",
+		"swe"
+	]
+}

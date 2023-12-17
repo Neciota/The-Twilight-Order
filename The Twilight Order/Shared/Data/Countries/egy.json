@@ -1,0 +1,18 @@
+{
+	"code": "egy",
+	"regionCode": "mea",
+	"name": "Egypt",
+	"stability": 3,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 3150,
+	"boxY": 1050,
+	"neighbors": [
+		"lib",
+		"sau",
+		"syr",
+		"hoa"
+	]
+}

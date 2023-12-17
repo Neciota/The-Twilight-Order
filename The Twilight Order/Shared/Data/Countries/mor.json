@@ -1,0 +1,16 @@
+{
+	"code": "mor",
+	"regionCode": "afr",
+	"name": "Morocco",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 2500,
+	"boxY": 850,
+	"neighbors": [
+		"ibe",
+		"alg",
+		"sah"
+	]
+}

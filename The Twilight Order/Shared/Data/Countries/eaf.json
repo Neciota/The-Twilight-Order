@@ -1,0 +1,19 @@
+{
+	"code": "eaf",
+	"regionCode": "afr",
+	"name": "East Africa",
+	"shortName": "E. Africa",
+	"stability": 1,
+	"influenceUsa": 0,
+	"influenceGermany": 1,
+	"influenceJapan": 0,
+	"boxX": 3230,
+	"boxY": 1600,
+	"neighbors": [
+		"cng",
+		"swa",
+		"saf",
+		"mad",
+		"hoa"
+	]
+}

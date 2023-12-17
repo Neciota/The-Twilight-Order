@@ -1,0 +1,15 @@
+{
+	"code": "ahi",
+	"regionCode": "asi",
+	"name": "Azad Hind",
+	"stability": 3,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 4000,
+	"boxY": 1000,
+	"neighbors": [
+		"ind",
+		"mya"
+	]
+}

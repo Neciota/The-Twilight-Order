@@ -1,0 +1,19 @@
+{
+	"code": "ita",
+	"regionCode": "eur",
+	"name": "Italy",
+	"stability": 4,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 2900,
+	"boxY": 700,
+	"neighbors": [
+		"swi",
+		"fra",
+		"lib",
+		"yug",
+		"gre"
+	]
+}

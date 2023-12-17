@@ -1,0 +1,17 @@
+{
+	"code": "tha",
+	"regionCode": "asi",
+	"name": "Thailand",
+	"stability": 3,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 4250,
+	"boxY": 1100,
+	"neighbors": [
+		"mya",
+		"inc",
+		"mal"
+	]
+}

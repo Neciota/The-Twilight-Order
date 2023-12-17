@@ -1,0 +1,16 @@
+{
+	"code": "syr",
+	"regionCode": "mea",
+	"name": "Syria",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3250,
+	"boxY": 750,
+	"neighbors": [
+		"tur",
+		"irq",
+		"egy"
+	]
+}

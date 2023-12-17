@@ -1,0 +1,17 @@
+{
+	"code": "gre",
+	"regionCode": "eur",
+	"name": "Greece",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3100,
+	"boxY": 750,
+	"neighbors": [
+		"tur",
+		"alb",
+		"bul",
+		"ita"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"code": "ost",
+	"regionCode": "rus",
+	"name": "Ostland",
+	"stability": 1,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3100,
+	"boxY": 350,
+	"neighbors": [
+		"ger",
+		"mos",
+		"ukr"
+	]
+}

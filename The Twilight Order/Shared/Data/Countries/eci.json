@@ -1,0 +1,16 @@
+{
+	"code": "eci",
+	"regionCode": "nam",
+	"name": "East Caribbean",
+	"shortName": "Caribbean",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 1900,
+	"boxY": 900,
+	"neighbors": [
+		"guy",
+		"dom"
+	]
+}

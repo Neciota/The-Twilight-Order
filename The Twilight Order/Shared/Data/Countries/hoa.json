@@ -1,0 +1,17 @@
+{
+	"code": "hoa",
+	"regionCode": "afr",
+	"name": "Horn of Africa",
+	"shortName": "The Horn",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3400,
+	"boxY": 1300,
+	"neighbors": [
+		"egy",
+		"eaf",
+		"yem"
+	]
+}

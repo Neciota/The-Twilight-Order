@@ -1,0 +1,16 @@
+{
+	"code": "lib",
+	"regionCode": "mea",
+	"name": "Libya",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 2950,
+	"boxY": 900,
+	"neighbors": [
+		"ita",
+		"alg",
+		"egy"
+	]
+}

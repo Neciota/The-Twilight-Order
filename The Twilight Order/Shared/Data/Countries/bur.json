@@ -1,0 +1,16 @@
+{
+	"code": "bur",
+	"regionCode": "eur",
+	"name": "Burgundy",
+	"stability": 4,
+	"influenceUsa": 0,
+	"influenceGermany": 4,
+	"influenceJapan": 0,
+	"boxX": 2750,
+	"boxY": 450,
+	"neighbors": [
+		"ger",
+		"fra",
+		"net"
+	]
+}

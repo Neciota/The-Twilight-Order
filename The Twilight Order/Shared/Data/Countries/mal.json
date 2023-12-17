@@ -1,0 +1,15 @@
+{
+	"code": "mal",
+	"regionCode": "asi",
+	"name": "Malaysia",
+	"stability": 1,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 4300,
+	"boxY": 1250,
+	"neighbors": [
+		"ino",
+		"tha"
+	]
+}

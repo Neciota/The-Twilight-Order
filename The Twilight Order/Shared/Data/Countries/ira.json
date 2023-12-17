@@ -1,0 +1,17 @@
+{
+	"code": "ira",
+	"regionCode": "mea",
+	"name": "Iran",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 1,
+	"influenceJapan": 0,
+	"isBattleground": true,
+	"boxX": 3600,
+	"boxY": 800,
+	"neighbors": [
+		"irq",
+		"afg",
+		"gul"
+	]
+}

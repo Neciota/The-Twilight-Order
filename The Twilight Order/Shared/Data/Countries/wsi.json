@@ -1,0 +1,17 @@
+{
+	"code": "wsi",
+	"regionCode": "rus",
+	"name": "West Siberia",
+	"shortName": "W. Siberia",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 3800,
+	"boxY": 300,
+	"neighbors": [
+		"wru",
+		"csi",
+		"cas"
+	]
+}

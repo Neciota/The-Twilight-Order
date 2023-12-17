@@ -1,0 +1,16 @@
+{
+	"code": "hon",
+	"regionCode": "nam",
+	"name": "Honduras",
+	"stability": 1,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 1400,
+	"boxY": 900,
+	"neighbors": [
+		"nic",
+		"gua",
+		"cub"
+	]
+}

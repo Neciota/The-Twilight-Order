@@ -1,0 +1,16 @@
+{
+	"code": "wch",
+	"regionCode": "asi",
+	"name": "West China",
+	"stability": 2,
+	"influenceUsa": 0,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 4100,
+	"boxY": 750,
+	"neighbors": [
+		"afg",
+		"chn",
+		"cas"
+	]
+}

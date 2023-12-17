@@ -1,0 +1,15 @@
+{
+	"code": "can",
+	"regionCode": "nam",
+	"name": "Canada",
+	"stability": 4,
+	"influenceUsa": 2,
+	"influenceGermany": 0,
+	"influenceJapan": 0,
+	"boxX": 1600,
+	"boxY": 200,
+	"neighbors": [
+		"usa",
+		"ice"
+	]
+}
