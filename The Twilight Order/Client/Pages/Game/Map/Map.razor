@@ -1,5 +1,6 @@
-﻿@using TheTwilightOrder.Shared.Models.Game;
-@inject IHttpClientFactory HttpClientFactory
+﻿@using TheTwilightOrder.Client.Services.Interfaces;
+@using TheTwilightOrder.Shared.Models.Game;
+@inject IGameService GameService
 
 @if (_state is not null)
 {
@@ -97,8 +98,7 @@
     {
         await base.OnInitializedAsync();
 
-        HttpClient http = HttpClientFactory.CreateClient("TheTwilightOrder.GameServerAPI");
-        _state = await http.GetFromJsonAsync<State>("/api/game/new");
+        _state = await GameService.GetGameStateAsync();
     }
 
     private void OnScroll(WheelEventArgs e)
@@ -106,6 +106,7 @@
         _zoomDepth += e.DeltaY > 0 ? -ZOOM_DELTA : ZOOM_DELTA;
         _zoomDepth = Math.Clamp(_zoomDepth, MIN_ZOOM, MAX_ZOOM);
 
+        //TODO: Prevent zoom from taking the map out of bounds.
         double relativeX = e.OffsetX - MAP_WIDTH / 2f;
         double relativeY = e.OffsetY - MAP_HEIGHT / 2f;
         double adjustedW = _zoomDepth * MAP_WIDTH;
@@ -118,10 +119,10 @@
 
     private void OnMove(MouseEventArgs e)
     {
-        Console.WriteLine(e.Buttons);
         if (e.Buttons % 2 == 0)
             return;
 
+        //TODO: Prevent movement from taking the map out of bounds.
         _zoomX += e.MovementX;
         _zoomY += e.MovementY;
     }

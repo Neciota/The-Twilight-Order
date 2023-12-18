@@ -1,4 +1,3 @@
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using TheTwilightOrder.GameServer.Services.Interfaces;
 using TheTwilightOrder.Shared.Models.Game;

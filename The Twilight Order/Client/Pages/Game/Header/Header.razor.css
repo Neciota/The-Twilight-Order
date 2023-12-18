@@ -5,3 +5,20 @@
     width: 100%;
     height: 200px;
 }
+
+.player {
+    height: 100%;
+    width: 33%;
+}
+
+.player[usa] {
+    background-color: var(--usa);
+}
+
+.player[germany] {
+    background-color: var(--ger);
+}
+
+.player[japan] {
+    background-color: var(--jap);
+}

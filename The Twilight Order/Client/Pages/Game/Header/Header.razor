@@ -1,7 +1,31 @@
-﻿<div class="header">
-    Sam The Eagle
+﻿@using TheTwilightOrder.Client.Services.Interfaces;
+@using TheTwilightOrder.Shared.Models.Game;
+@inject IGameService GameService
+
+<div class="header">
+    <div class="player usa">
+        @_usa.Name
+    </div>
+    <div class="player germany">
+        @_germany.Name
+    </div>
+    <div class="player japan">
+        @_japan.Name
+    </div>
 </div>
 
 @code {
+    private Player _usa = null!;
+    private Player _germany = null!;
+    private Player _japan = null!;
 
+    protected override async Task OnInitializedAsync()
+    {
+        await base.OnInitializedAsync();
+
+        IEnumerable<Player> players = await GameService.GetPlayersAsync();
+        _usa = players.First(p => p.Country == PlayerCountry.USA);
+        _germany = players.First(p => p.Country == PlayerCountry.Germany);
+        _japan = players.First(p => p.Country == PlayerCountry.Japan);
+    }
 }
