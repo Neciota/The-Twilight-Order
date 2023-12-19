@@ -1,9 +1,14 @@
-using Microsoft.AspNetCore.ResponseCompression;
+using TheTwilightOrder.Server.Services;
+using TheTwilightOrder.Server.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+
+// Services
+builder.Services.AddSingleton<IGameServerService, GameServerService>();
+builder.Services.AddSingleton<IMatchmakerService, MatchmakerService>();
 
 var app = builder.Build();
 

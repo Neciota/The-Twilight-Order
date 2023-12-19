@@ -18,6 +18,7 @@ builder.Services.AddSwaggerGen();
 
 // Services
 builder.Services.AddScoped<IGameFactory, GameFactory>();
+builder.Services.AddScoped<IGameFactory, GameFactory>();
 
 // Utilities
 builder.Services.AddScoped<ICountryFactory, CountryJsonReader>();
@@ -32,6 +33,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+await ServerService.RegisterSelf();
 
 app.UseHttpsRedirection();
 

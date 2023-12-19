@@ -2,7 +2,13 @@
 {
     public class Player
     {
-        public string Name { get; set; } = string.Empty;
+        public Player(Account account, PlayerCountry country)
+        {
+            Account = account;
+            Country = country;
+        }
+
+        public Account Account { get; set; }
         public PlayerCountry Country { get; set; }
     }
 }
